@@ -1,0 +1,2 @@
+https://github.com/knolleary/pubsubclient/archive/master.zip
+https://github.com/pepe79/Arduino-IRremote/archive/master.zip
