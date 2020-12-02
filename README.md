@@ -1,3 +1,8 @@
+# This tool is end of life
+Please use [arduino-cli](https://github.com/arduino/arduino-cli) instead.
+
+----
+
 # arduino-esp32-cli-bootstrap
 Bootstrap, Build and Flash an Arduino ESP32 project from the commandline 
 
